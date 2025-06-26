@@ -23,7 +23,6 @@ I'm currently transitioning into the field of Cybersecurity, building a strong f
 
 
 ## 🧠 Currently Learning 
-<img align="right" src="https://media1.tenor.com/m/9_JvYd-1AN0AAAAC/telepurte-pingu.gif" width=550>
 
 - Python for automation & scripting
 - SQL for data analysis
@@ -54,6 +53,7 @@ _(Coming Soon!)_
 
 > **_You're halfway there_**  
 > Keanu (Kowalski)
+<img align="right" src="https://media1.tenor.com/m/9_JvYd-1AN0AAAAC/telepurte-pingu.gif" width=550>
 
 
 <!--

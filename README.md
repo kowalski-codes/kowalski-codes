@@ -1,3 +1,54 @@
+# 👋 Hi, I'm Keanu Guevarra
+
+**Tier 2 Support Specialist** & **AI Trainer**  
+🚀 Transitioning into the world of **Software Development** and **Cybersecurity**
+
+---
+
+## 🌱 About Me
+
+I'm passionate about technology, problem-solving, and continuous learning. I'm currently building skills in:
+
+- 🐍 Python & 🗃️ SQL
+- 🔐 Cybersecurity Fundamentals
+- 🛠️ Technical Troubleshooting
+- 📚 **[OSSU](https://github.com/kowalski-codes/OSSU-Computer-Science)** and **[OSCS](https://github.com/kowalski-codes/OSCS)** Certifications
+
+---
+
+## 🧠 Currently Learning
+
+- Python for automation & scripting  
+- SQL for data analysis  
+- Cybersecurity tools (e.g., SIEM, packet sniffers)  
+- Git & version control
+
+---
+
+## 🎯 Goals
+
+- Build and share beginner-friendly projects  
+- Strengthen secure coding practices  
+- Land a role in **Cybersecurity**, or **Junior Development**
+
+---
+
+## 📂 Projects
+_(Coming Soon!)_
+
+---
+
+## 📫 Let's Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/keannu-guevarra-8baa222b0)
+[![Coursera](https://img.shields.io/badge/Coursera-white?style=for-the-badge&logo=coursera&logoColor=blue)](https://www.coursera.org/user/92060da2ee73034fa4dd0c5e08e5084a)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prekowalski@gmail.com)
+
+---
+
+> **_You're halfway there_**  
+> Keanu (kowalski)
+
+<!--
 # 👋 Hi, I'm Keannu Guevarra #
 ### Tier 2 Support Specialist & AI Trainer
 
@@ -23,6 +74,8 @@
 **📫 Let's Connect**
 * LinkedIn: www.linkedin.com/in/keannu-guevarra-8baa222b0
 * Email: prekowalski@gmail.com
+-->
+
 
 <!--
 Resume & Portfolio: (add when ready)

@@ -20,11 +20,14 @@ I'm currently transitioning into the field of Cybersecurity, building a strong f
 
 ---
 
-## 🧠 Currently Learning
 
-- Python for automation & scripting  
-- SQL for data analysis  
-- Cybersecurity tools (e.g., SIEM, packet sniffers)  
+
+## 🧠 Currently Learning 
+<img align="right" src="https://media1.tenor.com/m/9_JvYd-1AN0AAAAC/telepurte-pingu.gif" width=550>
+
+- Python for automation & scripting
+- SQL for data analysis
+- Cybersecurity tools (e.g., SIEM, packet sniffers)
 - Git & version control
 
 ---
@@ -50,7 +53,8 @@ _(Coming Soon!)_
 ---
 
 > **_You're halfway there_**  
-> Keanu (kowalski)
+> Keanu (Kowalski)
+
 
 <!--
 # 👋 Hi, I'm Keannu Guevarra #

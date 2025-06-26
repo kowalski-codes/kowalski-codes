@@ -7,7 +7,9 @@
 
 ## 🌱 About Me
 
-I'm passionate about technology, problem-solving, and continuous learning. I'm currently building skills in:
+I'm currently transitioning into the field of Cybersecurity, building a strong foundation in Python, SQL, and secure technology practices. I'm passionate about protecting people and data, and I'm drawn to Cybersecurity for its blend of problem-solving, ethics, and real-world impact. With strong communication skills, a commitment to continuous learning, and a growing technical toolkit, I'm focused on contributing to organizations that value security, integrity, and resilience, especially in public and government sectors.
+
+Currently building skills in:
 
 - 🐍 Python & 🗃️ SQL
 - 🔐 Cybersecurity Fundamentals

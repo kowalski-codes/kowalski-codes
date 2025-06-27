@@ -45,7 +45,10 @@ I'm currently transitioning into the field of Cybersecurity, building a strong f
 ---
 
 ## 📂 Projects
-_(Coming Soon!)_
+
+- **[Game Library](https://github.com/kowalski-codes/Game-Library)**
+  
+_(More Soon!)_
 
 ---
 

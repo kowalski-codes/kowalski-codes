@@ -65,9 +65,15 @@ _(More Soon!)_
     <img src="https://media1.tenor.com/m/9_JvYd-1AN0AAAAC/telepurte-pingu.gif" width=550>
 </p>
 
-
-
 <!--
+
+## OSSU CS Kanban Board
+
+| To Do | In Progress | Done |
+|-------|-------------|------|
+| - [ ] Core Programming | - [ ] Data Structures | - [x] Introduction to Computer Science |
+| - [ ] Discrete Math   | | - [x] Introduction to Git |
+| - [ ] Algorithms      | | |
 
 
 -->

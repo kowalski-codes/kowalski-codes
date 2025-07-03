@@ -21,7 +21,7 @@ I'm currently transitioning into the field of Cybersecurity, building a strong f
 - 🐍 Python & 🗃️ SQL
 - 🔐 Cybersecurity Fundamentals
 - 🛠️ Technical Troubleshooting
-- 📚 **[OSSU](https://github.com/kowalski-codes/OSSU-Computer-Science)** and **[OSCS](https://github.com/kowalski-codes/OSCS)** Certifications
+- 📚 **[OSSU](https://cs.ossu.dev/)** and **[OSCS](https://github.com/kowalski-codes/OSCS)** Certifications
 
 ---
 

@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:99DFFF,100:4788B3&text=Keanu%20Guevarra&desc=Tier%202%20Support%20Specialist%20|%20AI%20Trainer%20|%20Cybersecurity&descAlignY=70&section=footer&fontColor=FFFFFF" alt="Banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:99DFFF,100:4788B3&text=Keanu%20Guevarra&desc=Tier%202%20Support%20|%20AI%20Trainer%20|%20Cybersecurity&descAlignY=70&section=footer&fontColor=FFFFFF" alt="Banner"/>
 </p>
   
 

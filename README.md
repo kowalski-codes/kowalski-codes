@@ -5,7 +5,7 @@
 
 # 👋 Hi, I'm Keanu Guevarra
 
-**Tier 2 Support Specialist** & **AI Trainer**  
+**Tier 2 Support** & **AI Trainer**  
 🚀 Transitioning into the world of **Software Development** and **Cybersecurity**
 
 ---

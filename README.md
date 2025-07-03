@@ -25,8 +25,6 @@ I'm currently transitioning into the field of Cybersecurity, building a strong f
 
 ---
 
-
-
 ## 🧠 Currently Learning 
 
 - Python for automation & scripting

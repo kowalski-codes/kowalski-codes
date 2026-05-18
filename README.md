@@ -28,6 +28,7 @@ I'm currently transitioning into the field of Cybersecurity, building a strong f
 ## 🧠 Currently Learning 
 
 - Python for automation & scripting
+- Artificial Intelligence
 - SQL for data analysis
 - Cybersecurity tools (e.g., SIEM, packet sniffers)
 - Git & version control

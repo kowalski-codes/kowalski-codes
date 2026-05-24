@@ -45,7 +45,7 @@ I'm currently advancing my technical career, actively working to build my expert
 ---
 
 ## 📂 Projects
-- **[Credentials](https://github.com/kowalski-codes/credentials/blob/main/README.md)**
+- **[Credentials](https://github.com/kowalski-codes/credentials)**
 - **[Game Library](https://github.com/kowalski-codes/Game-Library)**
   
 _(More Soon!)_

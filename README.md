@@ -1,23 +1,24 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:99DFFF,100:4788B3&text=Keanu%20Guevarra&desc=Tier%202%20Support%20|%20AI%20Trainer%20|%20Cybersecurity&descAlignY=70&section=footer&fontColor=FFFFFF" alt="Banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:99DFFF,100:4788B3&text=Keanu%20Guevarra&desc=Tier%202%20Admin%20Support%20|%20AI%20Trainer%20|%20Cybersecurity&descAlignY=70&section=footer&fontColor=FFFFFF" alt="Banner"/>
 </p>
   
 
 # 👋 Hi, I'm Keanu Guevarra
 
-**Tier 2 Support** & **AI Trainer**  
-🚀 Transitioning into the world of **Software Development** and **Cybersecurity**
+**Tier 2 Admin Support** & **AI Trainer**  
+🚀 Transitioning into the world of **AI**, **Software Development** and **Cybersecurity**
 
 ---
 
 ## 🌱 About Me
 
-I'm currently transitioning into the field of Cybersecurity, building a strong foundation in Python, SQL, and secure technology practices. I'm passionate about protecting people and data, and I'm drawn to Cybersecurity for its blend of problem-solving, ethics, and real-world impact. With strong communication skills, a commitment to continuous learning, and a growing technical toolkit, I'm focused on contributing to organizations that value security, integrity, and resilience, especially in public and government sectors.
+I'm currently advancing my technical career, actively working to build my expertise in AI, Cybersecurity, Software Development, and Data Analysis. I'm passionate about protecting people and information, and I'm drawn to these fields for their blend of problem-solving, ethics, and real-world impact. With strong communication skills, a commitment to continuous learning, and a versatile technical toolkit, I'm focused on contributing to organizations that value security, integrity, and resilience, especially in public and government sectors.
 
 ---
 
 ## 🔧 Currently building skills in:
 
+- 🤖 Artificial Intelligence
 - 🐍 Python & 🗃️ SQL
 - 🔐 Cybersecurity Fundamentals
 - 🛠️ Technical Troubleshooting
@@ -44,7 +45,7 @@ I'm currently transitioning into the field of Cybersecurity, building a strong f
 ---
 
 ## 📂 Projects
-
+- **[Credentials](https://github.com/kowalski-codes/credentials/blob/main/README.md)**
 - **[Game Library](https://github.com/kowalski-codes/Game-Library)**
   
 _(More Soon!)_
@@ -63,17 +64,4 @@ _(More Soon!)_
 <p align="center">
     <img src="https://media1.tenor.com/m/9_JvYd-1AN0AAAAC/telepurte-pingu.gif" width=550>
 </p>
-
-<!--
-
-## OSSU CS Kanban Board
-
-| To Do | In Progress | Done |
-|-------|-------------|------|
-| - [ ] Core Programming | - [ ] Data Structures | - [x] Introduction to Computer Science |
-| - [ ] Discrete Math   | | - [x] Introduction to Git |
-| - [ ] Algorithms      | | |
-
-
--->
 

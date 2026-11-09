@@ -1,13 +1,12 @@
-<p align="center">
+<p align="center" width=50%>
     <img src="https://media.tenor.com/Z_Z9gYlFDc0AAAAM/hello-penguin.gif">
 </p>
 
-
+<!--
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:99DFFF,100:4788B3&text=Keanu%20Guevarra&desc=Tier%202%20Admin%20Support%20|%20AI%20Trainer%20|%20Cybersecurity&descAlignY=70&section=footer&fontColor=FFFFFF" alt="Banner"/>
 </p>
-
-
+-->
 ## 👋 hej hej! 👋
 
 🚀 **Tier 2 Admin Support**, **AI**, **Computer Science**, **Data**, **AI**, **Software Development** and **Cybersecurity**
@@ -48,9 +47,10 @@ _(More Soon!)_
 
 ---
 
+> <img align="left" width="350" src="https://media1.tenor.com/m/9_JvYd-1AN0AAAAC/telepurte-pingu.gif" alt="Pingu GIF">
+
 > **_You're halfway there_**  
-> Keanu (Kowalski)
-<p align="center">
-    <img src="https://media1.tenor.com/m/9_JvYd-1AN0AAAAC/telepurte-pingu.gif" width=550>
-</p>
+> ~ _Keanu (Kowalski)_
+
+<br clear="both"/>
 

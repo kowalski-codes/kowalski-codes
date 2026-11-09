@@ -1,6 +1,9 @@
-<p align="center" width=50%>
-    <img src="https://media.tenor.com/Z_Z9gYlFDc0AAAAM/hello-penguin.gif">
+<p align="center">
+    <img src="https://media1.tenor.com/m/9_JvYd-1AN0AAAAC/telepurte-pingu.gif" width=550>
 </p>
+
+> **_You're halfway there_**
+> ~ _Keanu (Kowalski)_
 
 <!--
 <p align="center">
@@ -23,7 +26,7 @@
 
 ---
 
-## all mee
+## 🐧 all mee
 - Python for automation & scripting
 - Artificial Intelligence
 - SQL for data analysis
@@ -39,18 +42,11 @@
 _(More Soon!)_
 
 ---
-
-## Contact me here
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/keannu-guevarra-8baa222b0)
 [![Coursera](https://img.shields.io/badge/Coursera-white?style=for-the-badge&logo=coursera&logoColor=blue)](https://www.coursera.org/user/92060da2ee73034fa4dd0c5e08e5084a)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prekowalski@gmail.com)
 
 ---
 
-> <img align="left" width="350" src="https://media1.tenor.com/m/9_JvYd-1AN0AAAAC/telepurte-pingu.gif" alt="Pingu GIF">
 
-> **_You're halfway there_**  
-> ~ _Keanu (Kowalski)_
-
-<br clear="both"/>
 
